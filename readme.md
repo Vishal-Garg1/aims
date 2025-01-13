@@ -1,5 +1,4 @@
 Download the code, then
-type 'npm init' in terminal
 type 'npm i' in terminal
-make .env file in backend folder
+make .env file in main folder
 type 'npm run start' to start the server
